@@ -1,4 +1,4 @@
-bool check(string s,int l,int h){
+bool check(string &s,int l,int h){
         while(l<=h){
             if( s[l]!=s[h] ){ return false; }
             l++;h--;
