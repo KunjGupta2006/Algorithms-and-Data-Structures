@@ -7,10 +7,10 @@ public:
         sort(people.begin(),people.end());
 
         while(l<=h){
-            int cap=0;
-                if(cap+people[h]<=limit) cap+=people[h--];
-                if(cap+people[l]<=limit) cap+=people[l++];
+
+            if(people[l]+people[h]<=limit) l++;
             boats++;
+            h--;
         }
         return boats;
     }
