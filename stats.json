@@ -1,0 +1,22 @@
+{
+  "totalSolved": 1,
+  "currentStreak": 1,
+  "maxStreak": 1,
+  "lastSyncDate": "2026-09-20",
+  "todayCount": 1,
+  "difficultyCounts": {
+    "easy": 1,
+    "medium": 0,
+    "hard": 0,
+    "basic": 0
+  },
+  "syncedProblems": {
+    "LeetCode_Reverse_Degree_of_a_String": true
+  },
+  "activityHistory": {
+    "2026-09-20": 1
+  },
+  "todayProblems": [
+    "Reverse Degree of a String"
+  ]
+}
