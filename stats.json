@@ -1,24 +1,26 @@
 {
-  "totalSolved": 2,
+  "totalSolved": 3,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-09-21",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 2,
     "medium": 0,
-    "hard": 0,
+    "hard": 1,
     "basic": 0
   },
   "syncedProblems": {
     "LeetCode_Reverse_Degree_of_a_String": true,
-    "LeetCode_Add_Binary": true
+    "LeetCode_Add_Binary": true,
+    "LeetCode_First_Missing_Positive": true
   },
   "activityHistory": {
     "2026-09-20": 1,
-    "2026-09-21": 1
+    "2026-09-21": 2
   },
   "todayProblems": [
-    "Add Binary"
+    "Add Binary",
+    "First Missing Positive"
   ]
 }
