@@ -1,11 +1,11 @@
 {
-  "totalSolved": 5,
-  "currentStreak": 1,
+  "totalSolved": 6,
+  "currentStreak": 2,
   "maxStreak": 2,
-  "lastSyncDate": "2026-09-24",
-  "todayCount": 2,
+  "lastSyncDate": "2026-09-25",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 3,
+    "easy": 4,
     "medium": 1,
     "hard": 1,
     "basic": 0
@@ -15,15 +15,16 @@
     "LeetCode_Add_Binary": true,
     "LeetCode_First_Missing_Positive": true,
     "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true,
-    "LeetCode_Sort_an_Array": true
+    "LeetCode_Sort_an_Array": true,
+    "LeetCode_Guess_Number_Higher_or_Lower": true
   },
   "activityHistory": {
     "2026-09-20": 1,
     "2026-09-21": 2,
-    "2026-09-24": 2
+    "2026-09-24": 2,
+    "2026-09-25": 1
   },
   "todayProblems": [
-    "Smallest Index With Digit Sum Equal to Index",
-    "Sort an Array"
+    "Guess Number Higher or Lower"
   ]
 }
