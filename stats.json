@@ -1,11 +1,11 @@
 {
-  "totalSolved": 8,
+  "totalSolved": 9,
   "currentStreak": 1,
   "maxStreak": 3,
-  "lastSyncDate": "2026-09-28",
+  "lastSyncDate": "2026-10-29",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 6,
+    "easy": 7,
     "medium": 1,
     "hard": 1,
     "basic": 0
@@ -18,7 +18,8 @@
     "LeetCode_Sort_an_Array": true,
     "LeetCode_Guess_Number_Higher_or_Lower": true,
     "LeetCode_Sqrt(x)": true,
-    "LeetCode_Maximum_Nesting_Depth_of_the_Parentheses": true
+    "LeetCode_Maximum_Nesting_Depth_of_the_Parentheses": true,
+    "LeetCode_Binary_Tree_Inorder_Traversal": true
   },
   "activityHistory": {
     "2026-09-20": 1,
@@ -26,9 +27,10 @@
     "2026-09-24": 2,
     "2026-09-25": 1,
     "2026-09-26": 1,
-    "2026-09-28": 1
+    "2026-09-28": 1,
+    "2026-10-29": 1
   },
   "todayProblems": [
-    "Maximum Nesting Depth of the Parentheses"
+    "Binary Tree Inorder Traversal"
   ]
 }

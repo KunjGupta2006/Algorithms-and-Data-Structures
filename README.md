@@ -8,3 +8,4 @@
 | 6 | [Guess Number Higher or Lower](./LeetCode/Easy/Guess%20Number%20Higher%20or%20Lower) | [LeetCode](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | 25 Sept 2026 | 10:26 pm |
 | 7 | [Sqrt(x)](./LeetCode/Easy/Sqrt(x)) | [LeetCode](https://leetcode.com/problems/sqrtx/) | Easy | 26 Sept 2026 | 03:50 pm |
 | 8 | [Maximum Nesting Depth of the Parentheses](./LeetCode/Easy/Maximum%20Nesting%20Depth%20of%20the%20Parentheses) | [LeetCode](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | 28 Sept 2026 | 06:58 pm |
+| 9 | [Binary Tree Inorder Traversal](./LeetCode/Easy/Binary%20Tree%20Inorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | 29 Oct 2026 | 08:17 pm |
