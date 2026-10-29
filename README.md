@@ -11,3 +11,4 @@
 | 9 | [Binary Tree Inorder Traversal](./LeetCode/Easy/Binary%20Tree%20Inorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | 29 Oct 2026 | 08:17 pm |
 | 10 | [Binary Tree Preorder Traversal](./LeetCode/Easy/Binary%20Tree%20Preorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | 29 Oct 2026 | 08:18 pm |
 | 11 | [Binary Tree Postorder Traversal](./LeetCode/Easy/Binary%20Tree%20Postorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Easy | 29 Oct 2026 | 08:18 pm |
+| 12 | [Invert Binary Tree](./LeetCode/Easy/Invert%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/invert-binary-tree/) | Easy | 29 Oct 2026 | 08:24 pm |
