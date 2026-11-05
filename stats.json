@@ -11,35 +11,35 @@
     "basic": 0
   },
   "syncedProblems": {
-    "LeetCode_Reverse_Degree_of_a_String": true,
-    "LeetCode_Add_Binary": true,
-    "LeetCode_First_Missing_Positive": true,
-    "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true,
-    "LeetCode_Sort_an_Array": true,
-    "LeetCode_Guess_Number_Higher_or_Lower": true,
-    "LeetCode_Sqrt(x)": true,
-    "LeetCode_Maximum_Nesting_Depth_of_the_Parentheses": true,
-    "LeetCode_Binary_Tree_Inorder_Traversal": true,
-    "LeetCode_Binary_Tree_Preorder_Traversal": true,
-    "LeetCode_Binary_Tree_Postorder_Traversal": true,
-    "LeetCode_Invert_Binary_Tree": true,
-    "LeetCode_Maximum_Depth_of_Binary_Tree": true,
-    "LeetCode_Same_Tree": true,
+    "LeetCode_Find_the_Distance_Value_Between_Two_Arrays": true,
     "LeetCode_Balanced_Binary_Tree": true,
-    "LeetCode_Find_the_Distance_Value_Between_Two_Arrays": true
+    "LeetCode_Same_Tree": true,
+    "LeetCode_Maximum_Depth_of_Binary_Tree": true,
+    "LeetCode_Invert_Binary_Tree": true,
+    "LeetCode_Binary_Tree_Postorder_Traversal": true,
+    "LeetCode_Binary_Tree_Preorder_Traversal": true,
+    "LeetCode_Binary_Tree_Inorder_Traversal": true,
+    "LeetCode_Maximum_Nesting_Depth_of_the_Parentheses": true,
+    "LeetCode_Sqrt(x)": true,
+    "LeetCode_Guess_Number_Higher_or_Lower": true,
+    "LeetCode_Sort_an_Array": true,
+    "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true,
+    "LeetCode_First_Missing_Positive": true,
+    "LeetCode_Add_Binary": true,
+    "LeetCode_Reverse_Degree_of_a_String": true
   },
   "activityHistory": {
-    "2026-09-20": 1,
-    "2026-09-21": 2,
-    "2026-09-24": 2,
-    "2026-09-25": 1,
-    "2026-09-26": 1,
-    "2026-09-28": 1,
-    "2026-10-29": 5,
+    "2026-11-05": 1,
     "2026-10-30": 2,
-    "2026-11-05": 1
+    "2026-10-29": 5,
+    "2026-09-28": 1,
+    "2026-09-26": 1,
+    "2026-09-25": 1,
+    "2026-09-24": 2,
+    "2026-09-21": 2,
+    "2026-09-20": 1
   },
-  "todayProblems": [
-    "Find the Distance Value Between Two Arrays"
-  ]
+  "todayProblems": [],
+  "usedTrophyDates": [],
+  "usedMilestones": []
 }
