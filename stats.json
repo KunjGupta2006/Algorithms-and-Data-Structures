@@ -1,12 +1,12 @@
 {
-  "totalSolved": 17,
+  "totalSolved": 18,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-11-05",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 15,
-    "medium": 1,
+    "medium": 2,
     "hard": 1,
     "basic": 0
   },
@@ -27,10 +27,11 @@
     "LeetCode_First_Missing_Positive": true,
     "LeetCode_Add_Binary": true,
     "LeetCode_Reverse_Degree_of_a_String": true,
-    "LeetCode_Diameter_of_Binary_Tree": true
+    "LeetCode_Diameter_of_Binary_Tree": true,
+    "LeetCode_Insert_into_a_Binary_Search_Tree": true
   },
   "activityHistory": {
-    "2026-11-05": 2,
+    "2026-11-05": 3,
     "2026-10-30": 2,
     "2026-10-29": 5,
     "2026-09-28": 1,
@@ -41,7 +42,8 @@
     "2026-09-20": 1
   },
   "todayProblems": [
-    "Diameter of Binary Tree"
+    "Diameter of Binary Tree",
+    "Insert into a Binary Search Tree"
   ],
   "usedTrophyDates": [],
   "usedMilestones": []
